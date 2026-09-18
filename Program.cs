@@ -10,10 +10,11 @@ class MainClass {
 	bool thisIsFalse = false;
 
 	// if
-
-
+if (thisIsTrue){Console,WriteLine("True!");}
+else if (thisIsFalse);
 	// if ... else
-
+else {Console.WriteLine("False!");
+}
 
 
 	// if ... else if ... else

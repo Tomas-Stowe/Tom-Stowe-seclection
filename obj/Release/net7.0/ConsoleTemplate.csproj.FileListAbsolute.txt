@@ -1,0 +1,15 @@
+/workspaces/Tom-Stowe-seclection/bin/Release/net7.0/ConsoleTemplate
+/workspaces/Tom-Stowe-seclection/bin/Release/net7.0/ConsoleTemplate.deps.json
+/workspaces/Tom-Stowe-seclection/bin/Release/net7.0/ConsoleTemplate.runtimeconfig.json
+/workspaces/Tom-Stowe-seclection/bin/Release/net7.0/ConsoleTemplate.dll
+/workspaces/Tom-Stowe-seclection/bin/Release/net7.0/ConsoleTemplate.pdb
+/workspaces/Tom-Stowe-seclection/obj/Release/net7.0/ConsoleTemplate.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Tom-Stowe-seclection/obj/Release/net7.0/ConsoleTemplate.AssemblyInfoInputs.cache
+/workspaces/Tom-Stowe-seclection/obj/Release/net7.0/ConsoleTemplate.AssemblyInfo.cs
+/workspaces/Tom-Stowe-seclection/obj/Release/net7.0/ConsoleTemplate.csproj.CoreCompileInputs.cache
+/workspaces/Tom-Stowe-seclection/obj/Release/net7.0/ConsoleTemplate.sourcelink.json
+/workspaces/Tom-Stowe-seclection/obj/Release/net7.0/ConsoleTemplate.dll
+/workspaces/Tom-Stowe-seclection/obj/Release/net7.0/refint/ConsoleTemplate.dll
+/workspaces/Tom-Stowe-seclection/obj/Release/net7.0/ConsoleTemplate.pdb
+/workspaces/Tom-Stowe-seclection/obj/Release/net7.0/ConsoleTemplate.genruntimeconfig.cache
+/workspaces/Tom-Stowe-seclection/obj/Release/net7.0/ref/ConsoleTemplate.dll

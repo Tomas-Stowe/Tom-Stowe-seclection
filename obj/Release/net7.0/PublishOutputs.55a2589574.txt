@@ -1,0 +1,5 @@
+/workspaces/Tom-Stowe-seclection/bin/Release/net7.0/publish/ConsoleTemplate
+/workspaces/Tom-Stowe-seclection/bin/Release/net7.0/publish/ConsoleTemplate.dll
+/workspaces/Tom-Stowe-seclection/bin/Release/net7.0/publish/ConsoleTemplate.deps.json
+/workspaces/Tom-Stowe-seclection/bin/Release/net7.0/publish/ConsoleTemplate.runtimeconfig.json
+/workspaces/Tom-Stowe-seclection/bin/Release/net7.0/publish/ConsoleTemplate.pdb
